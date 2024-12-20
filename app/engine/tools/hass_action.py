@@ -61,7 +61,7 @@ class HassAction:
 
         Args:
             entity_id (str): El ID de la entidad a la que aplicar la acción.
-            accion (str): El nombre de la acción (ej: "turn_on", "toggle").            
+            action (str): El nombre de la acción (ej: "turn_on", "toggle").            
             params (dict, opcional): Un diccionario con parámetros adicionales para la acción.
 
         Returns:
